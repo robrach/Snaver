@@ -1,4 +1,4 @@
-# Snaver-portfolio
+# Snaver
 <b> Project I was working on in a team of five during the bootcamp:
 
 "Snaver" - the application for budget management. The final version is a web application, but there is also an earlier terminal version.</b>
